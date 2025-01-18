@@ -1,0 +1,5 @@
+GET /about?name=admin current date is 2025-01-03T14:53:17.592Z
+GET /about current date is 2025-01-03T14:54:59.258Z
+[0mGET /about [36m304[0m 16.801 ms - -[0m
+[0mGET /about [36m304[0m 2.799 ms - -[0m
+ 
